@@ -1,1 +1,1 @@
-print("Add meg, hogy hány kiló vagy: ")
+kilo=int(input("Add meg, hogy hány kiló vagy: "))
